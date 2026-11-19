@@ -1,0 +1,878 @@
+2026.11.19 11:46:01 INFO  Started: Metals version 1.6.9 in folders 'E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo' for client Visual Studio Code 1.147.0.
+2026.11.19 11:46:01 INFO  Memory monitor started
+2026.11.19 11:46:01 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.19 11:46:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:46:05 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:05 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala
+nov 19, 2026 11:46:05 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+nov 19, 2026 11:46:05 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:46:06 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:46:06 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+nov 19, 2026 11:46:06 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+nov 19, 2026 11:46:06 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:46:06 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+nov 19, 2026 11:46:06 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:46:06 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:46:06 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+2026.11.19 11:46:06 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala
+2026.11.19 11:46:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:09 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:46:22 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+2026.11.19 11:46:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:35 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:38 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:38 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:40 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:40 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:40 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:41 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:42 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala
+2026.11.19 11:46:41 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:43 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:43 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:43 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:44 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala
+2026.11.19 11:46:44 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:47 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:47 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:47 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala
+2026.11.19 11:46:47 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:48 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:48 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:48 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:48 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:50 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:50 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:50 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:50 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:51 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala
+2026.11.19 11:46:51 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:51 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:52 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:52 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:52 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:54 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:54 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:54 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:54 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:55 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:55 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:55 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala
+2026.11.19 11:46:55 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:56 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:56 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:56 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:56 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:56 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:56 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:57 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala
+2026.11.19 11:46:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:58 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:58 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:58 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:58 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:58 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:58 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:59 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:59 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:46:59 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:00 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:00 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:00 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:00 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala
+2026.11.19 11:47:00 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:00 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:00 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:04 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala
+2026.11.19 11:47:04 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:47:05 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 209
+2026.11.19 11:47:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:06 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala
+2026.11.19 11:47:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:11 WARN  Could not find semantic tokens for: file:///E:/Ingenieria%20U/Funcional%20y%20concurrente/PROYECTO/Codigo/build.sbt
+2026.11.19 11:47:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:12 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala
+2026.11.19 11:47:12 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:12 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:20 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:20 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:20 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:24 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:24 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:25 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:25 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:25 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala
+2026.11.19 11:47:25 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:26 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:26 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:26 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:26 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:26 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:26 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:27 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:28 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala
+2026.11.19 11:47:27 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:29 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala
+2026.11.19 11:47:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:30 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:30 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:31 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala
+2026.11.19 11:47:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:32 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala
+2026.11.19 11:47:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:33 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:33 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:33 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:34 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala
+2026.11.19 11:47:34 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:38 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:38 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:38 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:38 WARN  Could not find semantic tokens for: file:///E:/Ingenieria%20U/Funcional%20y%20concurrente/PROYECTO/Codigo/project.scala
+2026.11.19 11:47:39 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:39 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:39 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:47:39 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 347
+2026.11.19 11:47:39 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:41 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:41 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:54 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:56 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:56 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:58 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:58 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:47:58 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:47:58 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:03 INFO  Created report: Optional[file:///E:/Ingenieria%20U/Funcional%20y%20concurrente/PROYECTO/Codigo/Pruebas.sc]
+2026.11.19 11:48:03 INFO  empty definition using pc, found symbol in pc:  (full report at: "E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\.metals\.reports\metals-full\2026-11-19\r_empty-definition_11-48-03-127.md")
+2026.11.19 11:48:03 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:07 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:07 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:07 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:07 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:48:07 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 445
+2026.11.19 11:48:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:48:08 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 453
+2026.11.19 11:48:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:09 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:10 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:10 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:10 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:11 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:12 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:12 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:12 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:12 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:12 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:48:14 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 491
+2026.11.19 11:48:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:15 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:18 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:19 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:20 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:20 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:20 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:21 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:21 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:21 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:21 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:23 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:23 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:23 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:23 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:23 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:24 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:25 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:25 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:26 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:26 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:29 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:29 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:30 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:30 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:30 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:30 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:30 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:33 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:33 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:33 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:34 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:34 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:34 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:34 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:35 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:35 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:35 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:35 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:36 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:35 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:37 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:37 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:37 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:37 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:37 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:37 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:37 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:37 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:37 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:48:37 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 644
+2026.11.19 11:48:37 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:38 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:37 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:38 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:38 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:38 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:38 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:39 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:38 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:39 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:39 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:40 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:40 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:40 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:40 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:40 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:40 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:41 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:41 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:41 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:42 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:43 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:43 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:43 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:43 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:44 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:44 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:44 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:44 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:47 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:47 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:47 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:47 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:47 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:47 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:47 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:48 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:48 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:48 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:48 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:49 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:49 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:49 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:49 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:49 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:49 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:50 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:50 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:50 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:51 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:51 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:52 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:52 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:53 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:53 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:53 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:53 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:54 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:55 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:55 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:55 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:55 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:55 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:55 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:55 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:56 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:56 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:56 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:56 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:57 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:58 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:59 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:48:59 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:59 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:59 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:00 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:59 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:59 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:00 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:48:59 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:01 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:49:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:04 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:49:04 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:04 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:06 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:07 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:07 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:07 INFO  empty definition using pc, found symbol in pc:  (full report at: "E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\.metals\.reports\metals-full\2026-11-19\r_empty-definition_11-48-03-127.md")
+2026.11.19 11:49:07 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:07 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:07 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:07 INFO  empty definition using pc, found symbol in pc:  (full report at: "E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\.metals\.reports\metals-full\2026-11-19\r_empty-definition_11-48-03-127.md")
+2026.11.19 11:49:08 INFO  empty definition using pc, found symbol in pc:  (full report at: "E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\.metals\.reports\metals-full\2026-11-19\r_empty-definition_11-48-03-127.md")
+2026.11.19 11:49:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:10 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:10 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:12 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:12 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:13 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:49:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:19 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:49:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:20 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:20 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:21 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:21 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:49:21 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:21 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:21 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:21 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:21 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:49:22 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 911
+2026.11.19 11:49:21 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:23 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:23 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:23 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:24 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:24 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:49:24 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:24 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:27 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:27 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:27 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:27 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:49:28 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 940
+2026.11.19 11:49:27 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:28 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:49:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:30 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:30 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:30 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:32 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:49:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:35 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:36 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:36 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:38 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:38 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:41 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:43 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:43 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:45 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:46 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:49 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:49 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:49 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:50 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:50 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:51 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:51 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:53 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:53 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:55 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:55 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:57 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:58 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:59 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:59 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:49:59 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:00 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:01 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:00 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:02 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:50:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:02 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:03 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:50:03 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:04 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:07 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:07 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:08 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:50:08 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:09 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:09 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:09 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:10 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:10 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:15 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 11:50:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:16 WARN  Could not find semantic tokens for: file:///E:/Ingenieria%20U/Funcional%20y%20concurrente/PROYECTO/Codigo/project.scala
+2026.11.19 11:50:16 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:18 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala
+2026.11.19 11:50:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:18 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:25 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:25 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala
+2026.11.19 11:50:25 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:25 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:25 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:25 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:32 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:33 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:33 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:33 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:33 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:34 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:36 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:36 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:44 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:44 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\common\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:50:44 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\common\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 11:50:44 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1174
+2026.11.19 11:50:44 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\common\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:51:04 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:51:04 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala
+2026.11.19 11:51:04 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:51:04 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:51:04 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:51:04 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:51:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:51:05 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:53:52 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:53:52 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:53:52 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:53:52 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:53:52 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 11:59:31 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:03:59 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ArbolSufijos\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:05:25 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:05:25 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 12:05:25 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:05:25 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\common\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:11 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 12:09:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:13 WARN  Could not find semantic tokens for: file:///E:/Ingenieria%20U/Funcional%20y%20concurrente/PROYECTO/Codigo/project.scala
+2026.11.19 12:09:13 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:14 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc
+2026.11.19 12:09:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:14 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:15 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:15 WARN  Could not find semantic tokens for: file:///E:/Ingenieria%20U/Funcional%20y%20concurrente/PROYECTO/Codigo/project.scala
+2026.11.19 12:09:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\project.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:17 WARN  Could not find semantic tokens for: file:///E:/Ingenieria%20U/Funcional%20y%20concurrente/PROYECTO/Codigo/build.sbt
+2026.11.19 12:09:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:17 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala
+2026.11.19 12:09:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:17 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenasPar\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:19 WARN  no build target for: E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala
+2026.11.19 12:09:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\ReconstCadenas\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\Pruebas.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:19 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:20 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\Oraculo\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\common\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\common\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:22 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\common\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\common\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\common\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:09:28 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\common\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:10:58 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\common\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+nov 19, 2026 12:11:21 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+nov 19, 2026 12:11:23 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+nov 19, 2026 12:24:05 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.19 12:24:11 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\common\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.19 12:24:48 INFO  no build target found for E:\Ingenieria U\Funcional y concurrente\PROYECTO\Codigo\src\main\scala\common\package.scala. Using presentation compiler with project's scala-library version: 3.3.8
